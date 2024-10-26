@@ -1,0 +1,23 @@
+{
+  "expo": {
+    "name": "react_native_course",
+    "slug": "react_native_course",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": ""
+    }
+  }
+}
